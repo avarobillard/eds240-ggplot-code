@@ -1,10 +1,10 @@
-# Interpreting {ggplot2} code
+# Analysis of {ggplot2} Visualization Code
 
 Author: Ava Robillard
 
 This repository contains a Quarto document with an interpretation of code adapted from [Dan Oehm's](https://gradientdescending.com/#google_vignette) UFO Sightings visualization from Tidy Tuesday, where a weekly real-world data set is provided to the data science community and participants share their data exploration, wrangling, and visualization skills.
 
-This purpose of this document is to interpret code from others and learn new skills.
+<img src="outputs/ufo_sightings_infographic.png" width="400"/>
 
 ## Repository Structure
 
@@ -36,4 +36,4 @@ This assignment was created as a part of EDS 240: Data Visualization & Communica
 
 **Data**
 
-[Tidy Tuesday](https://github.com/doehm/tidytues/blob/main/scripts/2023/week-25-ufo/ufo.R)
+[Tidy Tuesday README](https://github.com/doehm/tidytues/blob/main/scripts/2023/week-25-ufo/ufo.R)
