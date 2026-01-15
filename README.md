@@ -1,3 +1,39 @@
-# Homework #1 (Interpreting `{ggplot2}` code)
+# Interpreting {ggplot2} code
 
-This repository contains the `HW1.qmd` template file, necessary for completing HW #1. Here, you'll be interpreting, explaining, and reflecting on code written by someone else. Find the full assignment description on the [course website](https://eds-240-data-viz.github.io/course-materials/assignments/HW1.html).
+Author: Ava Robillard
+
+This repository contains a Quarto document with an interpretation of code adapted from [Dan Oehm's](https://gradientdescending.com/#google_vignette) UFO Sightings visualization from Tidy Tuesday, where a weekly real-world data set is provided to the data science community and participants share their data exploration, wrangling, and visualization skills.
+
+This purpose of this document is to interpret code from others and learn new skills.
+
+## Repository Structure
+
+The **HW1.qmd** file contains the main code and interpretations.
+
+The **outputs** folder contains the final infographic PNG.
+
+``` bash
+eds240-ggplot-code
+├── HW1.html
+├── HW1.qmd
+├── README.md
+├── eds240-hw1-ufo.Rproj
+├── fonts
+│   ├── Font Awesome 6 Brands-Regular-400.otf
+│   ├── Font Awesome 6 Free-Regular-400.otf
+│   └── Font Awesome 6 Free-Solid-900.otf
+├── images
+│   └── ufo.png
+└── outputs
+    └── ufo_sightings_infographic.png
+```
+
+## References
+
+This assignment was created as a part of EDS 240: Data Visualization & Communication, taught by Sam Shanny-Csik.
+
+[Orignial code](https://github.com/doehm/tidytues/blob/main/scripts/2023/week-25-ufo/ufo.R)
+
+**Data**
+
+[Tidy Tuesday](https://github.com/doehm/tidytues/blob/main/scripts/2023/week-25-ufo/ufo.R)
